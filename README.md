@@ -1,2 +1,2 @@
 # SSK
-for samaj application
+for samaj appl
