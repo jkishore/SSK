@@ -1,0 +1,2 @@
+# SSK
+for samaj app
